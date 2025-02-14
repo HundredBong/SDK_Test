@@ -12,7 +12,7 @@ public class RayGun : MonoBehaviour
 
     private AudioSource audioSource;
     public AudioClip shootClip;
-
+    //d
     private void Awake()
     {
         audioSource = GetComponent<AudioSource>();
